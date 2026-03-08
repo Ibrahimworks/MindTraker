@@ -6,7 +6,7 @@ Single-file marketing landing page for the MindTrack app. No framework, no build
 
 ## App Download Link
 
-> **Coming soon — link will be added here.**
+> **Coming soon.**
 
 Once available, replace every instance of `href="#"` on `.btn-primary` buttons with the real store URL.
 

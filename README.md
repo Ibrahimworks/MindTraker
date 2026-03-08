@@ -8,8 +8,6 @@ Single-file marketing landing page for the MindTrack app. No framework, no build
 
 > **Coming soon.**
 
-Once available, replace every instance of `href="#"` on `.btn-primary` buttons with the real store URL.
-
 ---
 
 ## Stack
@@ -29,9 +27,6 @@ No npm. No bundler. No runtime dependencies.
 index.html   ← everything lives here
 README.md                ← you are here
 ```
-
-Intentionally kept as a single file for portability — drop it on any static host with zero configuration.
-
 ---
 
 ## Assets

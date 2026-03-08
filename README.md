@@ -26,7 +26,7 @@ No npm. No bundler. No runtime dependencies.
 ## File Structure
 
 ```
-mindtrack-website.html   ← everything lives here
+index.html   ← everything lives here
 README.md                ← you are here
 ```
 

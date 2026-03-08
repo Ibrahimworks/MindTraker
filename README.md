@@ -136,21 +136,6 @@ Single breakpoint at `768px` at the bottom of the `<style>` block:
 
 ---
 
-## Deployment
-
-No build step. Upload the single `.html` file to any static host:
-
-```bash
-# Netlify CLI
-netlify deploy --prod --dir .
-
-# Or drag and drop at netlify.com/drop
-```
-
-> For GitHub Pages, rename the file to `index.html`.
-
----
-
 ## Notes for Review
 
 - CSS class names are intentionally short (`.fc-card`, `.pc`, `.sec`) due to single-file context — would be refactored to BEM or a component system if moved to a proper framework

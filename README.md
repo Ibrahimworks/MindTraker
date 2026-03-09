@@ -137,3 +137,8 @@ Single breakpoint at `768px` at the bottom of the `<style>` block:
 - Phone mockup is built entirely with CSS/HTML — no image assets
 - Blob backgrounds are `position: absolute` divs with `filter: blur()` — no SVG or canvas
 - Logos are base64-inlined to keep the file self-contained and portable
+
+
+## Tutorial used
+
+https://youtu.be/HGTJBPNC-Gw?si=LIvxjkX0459lotXm
